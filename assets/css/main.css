@@ -1300,12 +1300,16 @@ body.loaded {
 	width: 48%;
 }
 .portfolio-box .portfolio-item {
-	background-color: var(--tj-theme-accent-2);
-	margin-bottom: 4%;
-	padding: 36px 36px 0 36px;
-	border-radius: 10px;
-	width: 48%;
+    background-color: var(--tj-theme-accent-2);
+    margin-bottom: 4%;
+    padding: 0;
+    width: 48%;
+    border-radius: 20px;
+    overflow: hidden;
+    box-shadow: 10px 11px 31px -9px #0f0715;
+    border: 10px solid white;
 }
+
 .portfolio-box .gutter-sizer {
 	width: 4%;
 }

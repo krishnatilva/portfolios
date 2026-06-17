@@ -974,3 +974,15 @@
 		margin-top: 60px;
 	}
 }
+
+
+@media(max-width:574px){
+	.portfolio-box .portfolio-item {
+    width: 100%;
+    padding: 5px;
+    margin-bottom: 30px;
+}
+	.portfolio-box .portfolio-item {
+    border: 3px solid white;
+}
+}

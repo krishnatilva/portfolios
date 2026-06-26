@@ -1944,6 +1944,7 @@ body.loaded {
 }
 .testimonials-widget .testimonial-item .image-box img {
 	border-radius: 5px 5px 5px 125px;
+	    display: none;
 }
 .testimonials-widget .testimonial-item .logo-box {
 	max-width: 100px;
